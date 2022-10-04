@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#contenedor{
+    background: black;
+    width: 1200px;
+    height: 600px;
+    margin: 0.5cm auto;
+    padding: 0.5cm auto;
+
+}
+#header{
+background:rgb(114, 2, 2);
+color: aliceblue;
+height: 10%;
+border-radius: 10px;
+margin: 0.5cm;
+font-size:small;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#nav{
+background: rgb(114, 73, 114);
+font-size:small;
+font-family: Arial, Helvetica, sans-serif;
+color: aliceblue;
+height: 15%;
+border-radius: 10px;
+margin: 00.5cm;
+}
+
+#contenido{
+
+
+height: 40%;
+margin: %0.5cm;
+
+}
+
+#footer{
+    background: rgb(60, 80, 60);
+
+    height: 15%;
+    margin: 0.5cm;
+    border-radius: 10px;
+    font-size:small;
+font-family: Arial, Helvetica, sans-serif;
+color: aliceblue;
+
+}
+#section{
+    background: rgb(135, 135, 177);
+    width: 60%;
+    height: 80%;
+    border-radius: 10px;
+    float: left;
+    margin: 0.5cm;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: aquamarine;
+}
+
+#aside{
+    background: rgb(42, 73, 42);
+    width: 35%;
+    height: 80%;
+    border-radius: 10px;
+    float: right;
+    margin-right: 0.5cm;
+    font-size:small;
+font-family: Arial, Helvetica, sans-serif;
+color: aliceblue;
+text-align: center;
+}
+.art{
+    width: 95%;
+    height: 20%;
+    background:rgb(141, 141, 61);
+    margin-top: 5px;
+    border-radius: 10px;
+    color: brown;
+
+}
