@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#contenedor{
+    background-size: cover;
+    width: 700px;
+    height: 600px;
+    margin: 0.5cm auto;
+    padding: 0.5cm auto;
+    background-image: url("fondogen.jpg");
+    
+
+}
+#header{
+background:rgb(114, 2, 2);
+color: aliceblue;
+height: 10%;
+border-radius: 10px;
+margin: 0.5cm;
+font-size: x-small;
+font-family: Arial, Helvetica, sans-serif;
+opacity: 0.7;
+padding-top: 10px;
+}
+
+#nav{
+background: rgb(114, 73, 114);
+font-size:small;
+font-family: Arial, Helvetica, sans-serif;
+color: wheat;
+height: 15%;
+border-radius: 10px;
+margin: 00.5cm;
+opacity: 0.7;
+}
+
+#contenido{
+
+
+height: 40%;
+margin: %0.5cm;
+
+}
+
+#footer{
+    background: rgb(60, 80, 60);
+
+    height: 15%;
+    margin: 0.5cm;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: small;
+font-family: Arial, Helvetica, sans-serif;
+color:rgb(216, 216, 155);
+opacity: 0.7;
+
+}
+#section{
+    background: rgb(135, 135, 177);
+    width: 40%;
+    height: 80%;
+    border-radius: 10px;
+    float: left;
+    margin: 0.5cm;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:white;
+    opacity: 0.7;
+}
+
+#aside{
+    background: rgb(107, 165, 107);
+    width: 45%;
+    height: 80%;
+    border-radius: 10px;
+    float: right;
+    margin-right: 0.5cm;
+    font:10px;
+font-family: Arial, Helvetica, sans-serif;
+color:white;
+text-align: center;
+opacity: 0.7;
+}
+.art{
+    width: 95%;
+    height: 20%;
+    background:beige;
+    margin-top: 5px;
+    border-radius: 10px;
+    color: brown;
+    
+
+}
+
+.a{
+    color: aquamarine;
+}
