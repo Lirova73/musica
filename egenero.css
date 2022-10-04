@@ -4,7 +4,7 @@
 }
 #contenedor{
     background: black;
-    width: 1200px;
+    width: 700px;
     height: 600px;
     margin: 0.5cm auto;
     padding: 0.5cm auto;
@@ -51,7 +51,7 @@ color: aliceblue;
 }
 #section{
     background: rgb(135, 135, 177);
-    width: 60%;
+    width: 45%;
     height: 80%;
     border-radius: 10px;
     float: left;
@@ -59,7 +59,7 @@ color: aliceblue;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    color: aquamarine;
+    color: black;
 }
 
 #aside{
@@ -77,7 +77,7 @@ text-align: center;
 .art{
     width: 95%;
     height: 20%;
-    background:rgb(141, 141, 61);
+    background:beige;
     margin-top: 5px;
     border-radius: 10px;
     color: brown;
